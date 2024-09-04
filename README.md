@@ -10,7 +10,7 @@ BoomBikes, a US-based bike-sharing company, saw a revenue drop during the COVID-
 
 - **`Bike_Sharing_Assignment.ipynb`**: The Jupyter notebook with data preparation, analysis, model building, and results.
 - **`subjective_questions.pdf`**: Answers to the assignment's subjective questions on linear regression.
-- **`data/`**: Dataset folder. (Add a link if the dataset isn't included.)
+- **`data/`**: Dataset folder.
 - **`README.md`**: Overview of the project and instructions.
 
 ## Getting Started
